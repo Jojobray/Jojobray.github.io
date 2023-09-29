@@ -6,4 +6,4 @@
 
 "Git is a platform for developers to share code, contribute to open source projects, or automate their workflow. (VCS)."
 
-"GitHub is owned by Microsoft."
+"GitHub is owned by Microsoft." 
